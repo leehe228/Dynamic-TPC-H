@@ -53,6 +53,7 @@ sudo docker build -t hoeunlee228/tpch-mysql:latest .
 ```bash
 sudo docker pull hoeunlee228/tpch-mysql:latest
 ```
+- You can check docker image in [Docker Hub](https://hub.docker.com/layers/hoeunlee228/tpch-mysql/latest/images/sha256:f925ff16e1ed237c51c8364a08814f2e36d27c1277a88bfeae930223909996ef?uuid=27739523-535D-4579-B84D-F80C56650AC2)
 <br>
 
 ### 3. Run Docker Image
