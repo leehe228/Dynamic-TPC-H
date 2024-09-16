@@ -18,6 +18,12 @@ cd tpch-dbgen
 ```
 <br>
 
+**Move Files into DBGen Repository**
+```bash
+sudo cp -r /path/to/Dynamic-TPC-H/* /path/to/tpch-dbgen/ 
+```
+<br>
+
 **Build Data Generation Tool (DBGen)**
 ```bash
 sudo make
