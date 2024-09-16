@@ -79,6 +79,6 @@ sudo docker exec -it tpch-mysql mysql -u root -p tpch
 **Check Tables and Data**
 ```sql
 mysql> SHOW TABLES;
-mysql > SELECT COUNT(*) FROM CUSTOMER;
+mysql> SELECT COUNT(*) FROM CUSTOMER;
 ```
 <br>
